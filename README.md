@@ -43,15 +43,15 @@ focus:
   - Remote sensing + GIS + Google Earth Engine
   - Decision Support Systems (data → decisions)
 currently:
-  - Building a pan-India water balance platform
+  - Building a water resource management platform
   - National-scale groundwater accounting (GWPZ · WTF · stress mapping)
 mission: "Making complex hydrology simple, visual, and actionable."
 ```
 
-- 🎓 **Ph.D.** in Soil & Water Conservation Engineering — Cloud-based DSS for water budgeting of the PAP Aliyar Sub-Basin (World Bank / TNIAMP funded)
+- 🎓 **Ph.D.** in Soil & Water Conservation Engineering — Cloud-based DSS for water budgeting of the PAP Aliyar Sub-Basin 
 - 🌊 I turn hydrological models into **web tools** people can actually use — dashboards, DSS portals, and interactive maps
 - 🛰️ Strong on **remote sensing, GEE, and geospatial analysis** at basin to national scale
-- 🏆 **ICAR-JRF** — AIR 7 (2022) · AIR 17 (2019)
+- 🏆 **ICAR-JRF/SRF** — AIR 7 (2022) · AIR 17 (2019)
 - 📄 Published research incl. *Plant Science Today* (DOI: 10.14719/pst.9877)
 - 🗣️ Telugu · English · Hindi
 
